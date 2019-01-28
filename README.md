@@ -1,6 +1,6 @@
 # Editor-angular
 
-Drag-and-drop editor based on Fabricjs for Angular v5 with multiple options
+Drag-and-drop editor based on Fabricjs for Angular v7 with multiple options
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?
 
