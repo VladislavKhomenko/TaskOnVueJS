@@ -29,14 +29,14 @@ password: test
 
 ---
 
-#### Demos
+### Demos
 
 *  [Explore Examples Online](http://internal-editor.ocs-test-srv.com/)
 *  [Demo Source Code](??)
 
 ---
 
-#### Features
+### Features
 * Export to image
 * Export to SVG
 * Save to localStorage
