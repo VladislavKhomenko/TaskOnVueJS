@@ -9,8 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam 
 ## Installation
 
 ```bash
-git clone https://github.com/angular-editor.............git
-cd angular-editor
 npm install
 ```
 ## Start
